@@ -10,7 +10,7 @@ Edition: 4th Edition
 
 ⸻
 
-📂 Repository Contents
+Repository Contents
 
 Folder/Path	Description
 Labs/	Weekly programming labs based on core Java and OOP principles
